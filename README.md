@@ -3,6 +3,8 @@
 The Home Price Prediction project is a machine learning-based project that predicts the prices of residential properties. By leveraging historical property data and utilizing machine learning algorithms, this project provides users with estimated prices for houses based on their features and location. The project also includes a user-friendly graphical user interface (GUI) developed using Flask, CSS, and HTML.
 
 #Features
+
+
 Data Preprocessing: 
 The project preprocesses and cleans the historical property data, transforming it into a suitable format for machine learning model training.
 
