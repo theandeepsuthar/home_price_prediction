@@ -19,3 +19,10 @@ The Flask framework is used to develop a user-friendly GUI where users can input
 
 CSS and HTML Styling: 
 CSS and HTML are utilized to enhance the visual appearance and layout of the GUI, providing an intuitive user experience.
+
+## project video
+
+
+https://github.com/thesandeepsuthar/home_price/assets/96325817/1055064e-f6a4-4ab6-b4e6-27ecb5384b81
+
+
